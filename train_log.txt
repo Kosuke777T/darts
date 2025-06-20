@@ -1,0 +1,14 @@
+Connected to Deriv API
+Fetched 5000 ticks, total: 5000
+Fetched 5000 ticks, total: 10000
+Fetched 5000 ticks, total: 15000
+Fetched 5000 ticks, total: 20000
+Fetched 5000 ticks, total: 25000
+Fetched 5000 ticks, total: 30000
+Fetched 5000 ticks, total: 35000
+Fetched 5000 ticks, total: 40000
+Fetched 5000 ticks, total: 45000
+Fetched 5000 ticks, total: 50000
+Saved to ticks.csv
+Samples: 49880
+Model saved to model_tft.pkl
